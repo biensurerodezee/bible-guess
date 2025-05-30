@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg1" viewBox="0 0 713.66 557.51" version="1.0" y="0" x="0">
+  <g id="layer1" transform="translate(-165.94 -101.83)">
+    <g id="g6712" transform="translate(-8.7205 12.548)">
+      <path id="path2311" d="m494.91 588.46l18.87-0.63 17.72-6.4 17.71 6.4h301.18l-354.33-407.48-313.03-3.01 311.88 411.12z" stroke="#000" stroke-width="5" fill-rule="evenodd"/>
+      <path id="path2933" d="m850.39 463.82c-35.43 35.43-45.25 70.87-42.97 106.3h-311.36l53.15-106.3h301.18" fill-rule="evenodd" stroke="#000" stroke-width="5" fill="#fff"/>
+      <path id="path1689" d="m212.59 91.781l-35.43 88.559 318.9 407.5 53.16-106.31h17.72l17.72 7.56 17.72-7.56h283.43l-354.31-389.75-273.28 0.001-16.97 6.781-17.72-6.781h-10.94z" stroke="#000" stroke-width="5" fill-rule="evenodd"/>
+      <path id="path6077" d="m140.33 381.75l155.63 184.63" transform="translate(306.4 -244.29)" stroke="#fff" stroke-linecap="round" stroke-width="25" fill="none"/>
+      <path id="path6699" d="m270.81 442.36h-169.73v0" transform="translate(306.4 -244.29)" stroke="#fff" stroke-linecap="round" stroke-width="25" fill="none"/>
+      <path id="path6711" d="m551.32 525.51c3.98 4.88 5.65 11.29 8.01 17.03 2.97 6.13 2.3 13.1 2.28 19.75 0.96 6.65-1.14 11.87-3.68 17.71-8.95 9.66-43.63 26.28-5.78 4.98 7.7-4.34-30.89 17.17-23.22 12.79l17.19-9.75-0.9 0.6c-40.02 23.3-11.45 6.63-1.84 1.16 3.81-2.17-5.49 7.36-6.01 11.71-1.76 5.19-4.53 9.72-5.64 15.02 1.39 6.12 5.07 8.86 9.93 12.33 3.42 2.15 6.77 4.25 10.04 6.6l-17.74 11.35c-3.32-2.37-6.74-4.52-10.15-6.8-5.33-3.81-9.09-7.28-10.79-13.83 0.55-5.81 2.66-10.31 5.45-15.44 1.9-17.8 41.8-36.08 7.13-14.39 7.31-4.26 44.22-25.44 5.07-2.52-7.26 4.25 29.11-16.85 21.87-12.57-23.56 13.96-20.23 13.19-13.94 7.17 2.7-5.45 5.38-10.02 4.32-16.6 0.01-6.26 0.72-12.86-1.8-18.7-2.35-5.75-4.05-12.11-7.98-17.07-2.64-4.19-5.99-7.86-8.49-11.97 0 0 24.29-2.4 26.67 1.44z"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Closed Bible</dc:title>
+        <dc:date>2009-04-01T07:36:20</dc:date>
+        <dc:description>Clipart of a closed Bible by Aaron Johnson</dc:description>
+        <dc:source>http://openclipart.org/detail/23574/closed-bible-by-anonymous-23574</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bible</rdf:li>
+            <rdf:li>black</rdf:li>
+            <rdf:li>book</rdf:li>
+            <rdf:li>christianity</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cross</rdf:li>
+            <rdf:li>paper</rdf:li>
+            <rdf:li>religion</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
